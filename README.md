@@ -11,19 +11,19 @@ Currently, I am studying Information Systems, developing knowledge in programmin
 
 💼 Tools & Technologies I Use:
 
-- Java & Python (programming logic, back-end development, and small practical projects)
-- Node.js (building simple APIs and back-end systems in JavaScript)
-- PostgreSQL / MySQL (queries, modeling, and data manipulation in relational databases)
-- Kali Linux (operating system focused on security testing and vulnerability analysis)
-- Wireshark & Nmap (tools for network traffic analysis and device mapping)
-- Burp Suite (basic web application security testing and vulnerability detection)
-- Git & GitHub (version control and project management)
-- Linux (basic) (essential commands for system and server administration)
+- Java & Python (programming logic, back-end development, and small practical projects).
+- Node.js (building simple APIs and back-end systems in JavaScript).
+- PostgreSQL / MySQL (queries, modeling, and data manipulation in relational databases).
+- Kali Linux (operating system focused on security testing and vulnerability analysis).
+- Wireshark & Nmap (tools for network traffic analysis and device mapping).
+- Burp Suite (basic web application security testing and vulnerability detection).
+- Git & GitHub (version control and project management).
+- Linux (basic) (essential commands for system and server administration).
 
-  ✨ Sobre Mim
+ ✨ About Me
 
-- Apaixonado por cibersegurança e desenvolvimento back-end
-- Interesse em explorar projetos criativos e técnicos para evoluir como desenvolvedor e profissional
-- Foco em construir uma carreira sólida em back-end e cibersegurança
-- Acredito que a combinação de lógica, criatividade e segurança é essencial para criar soluções confiáveis e inovadoras
+- Passionate about cybersecurity and back-end development.
+- Interested in exploring creative and technical projects to grow as a developer and professional.
+- Focused on building a solid career in back-end and cybersecurity.
+- Believe that the combination of logic, creativity, and security is essential to create reliable and innovative solutions.
 
