@@ -20,3 +20,10 @@ Currently, I am studying Information Systems, developing knowledge in programmin
 - Git & GitHub (version control and project management)
 - Linux (basic) (essential commands for system and server administration)
 
+  ✨ Sobre Mim
+
+- Apaixonado por cibersegurança e desenvolvimento back-end
+- Interesse em explorar projetos criativos e técnicos para evoluir como desenvolvedor e profissional
+- Foco em construir uma carreira sólida em back-end e cibersegurança
+- Acredito que a combinação de lógica, criatividade e segurança é essencial para criar soluções confiáveis e inovadoras
+
