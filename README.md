@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🎨 Estoquista & Explorador de Back-Ens | 21 anos 🇧🇷
+📍 Baseado no Brasil | Atualmente estudando Cybersegurity & Tecnologia
+🖥️ Programador e estoquista na Nutrisul S.A Produtos Alimenticios
 <!--
 **DevJhonaN/DevJhonaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
