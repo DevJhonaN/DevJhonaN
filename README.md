@@ -19,3 +19,10 @@ Currently, I am studying Information Systems, developing knowledge in programmin
 - Burp Suite (testes básicos de segurança em aplicações web e detecção de falhas)
 - Git & GitHub (controle de versão e gerenciamento de projetos)
 - Linux (básico) (comandos essenciais para administração de sistemas e servidores)
+
+✨ About Me
+
+- Passionate about cybersecurity and back-end development
+- Interested in exploring creative and technical projects to grow as a developer and professional
+- Focused on building a solid career in back-end and cybersecurity
+- Believe that the combination of logic, creativity, and security is essential to create reliable and innovative solutions
